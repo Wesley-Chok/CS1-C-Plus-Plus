@@ -1,0 +1,106 @@
+*************************************************************
+* PROGRAMMED BY : Wesley Chok
+* CLASS         : CS1C
+* SECTION       : MW 2:30 - 4:50p
+* ASN #2        : Students
+*************************************************************
+
+/******************************************************************************
+* OUTPUT (This is a comment, not part of the output)
+* ------------------------------------------------------------------------------
+* This outputs the student information, the new cs1c student information and 
+* the cs1c academic information. An array of objects is primarily used to
+* output all of the contents of information. Although one array is meant to
+* call the student information and display. The other array calls the cs1c
+* functions, which includes the information and display. The information 
+* portion concludes once it reaches the loop continuation condition. 
+* ------------------------------------------------------------------------------
+/******************************************************************************
+Enter the information for Students: 
+Enter Student's Name: Celine Dion
+Enter Student's ID: 444444
+Enter Student's Phone Number: 949-555-1234
+Enter Student's Age: 51
+Enter Student's Gender(m/f): F
+Enter Student's Class Standing: Freshman
+Enter Student's GPA: 4.0
+
+Enter Student's Name: Madonna
+Enter Student's ID: 123456
+Enter Student's Phone Number: 714-555-5555
+Enter Student's Age: 61
+Enter Student's Gender(m/f): F
+Enter Student's Class Standing: Sophomore
+Enter Student's GPA: 3.23
+
+Enter Student's Name: Jennifer Lopez
+Enter Student's ID: 876542
+Enter Student's Phone Number: 760-703-1234
+Enter Student's Age: 50
+Enter Student's Gender(m/f): F
+Enter Student's Class Standing: Sophomore
+Enter Student's GPA: 3.79
+
+Enter Student's Name: Lady Gaga
+Enter Student's ID: 777744
+Enter Student's Phone Number: 213-555-6789
+Enter Student's Age: 33
+Enter Student's Gender(m/f): F
+Enter Student's Class Standing: Freshman
+Enter Student's GPA: 2.10
+
+Name           Student's Id Phone         Age    Gender Class Standing  GPA
+Celine Dion    444444       949-555-1234  51     F      Freshman        4
+Madonna        123456       714-555-5555  61     F      Sophomore       3.23
+Jennifer Lopez 876542       760-703-1234  50     F      Sophomore       3.79
+Lady Gaga      777744       213-555-6789  33     F      Freshman        2.1
+
+
+Enter the information for CS1C Students: 
+Enter CS1C Student's Name: Adele
+Enter CS1C Student's ID: 667788
+Enter CS1C Student's Phone Number: 949-665-1234
+Enter CS1C Student's Age: 31
+Enter CS1C Student's Gender(m/f): F
+Enter CS1C Student's Class Standing: Freshman
+Enter CS1C Student's GPA: 3.3
+
+Enter CS1C Student's Name: Taylor Swift
+Enter CS1C Student's ID: 156789
+Enter CS1C Student's Phone Number: 248-555-6543
+Enter CS1C Student's Age: 29
+Enter CS1C Student's Gender(m/f): M
+Enter CS1C Student's Class Standing: Sophomore
+Enter CS1C Student's GPA: 3.9
+
+Enter CS1C Student's Name: Bruno Mars
+Enter CS1C Student's ID: 876543
+Enter CS1C Student's Phone Number: 703-703-7654
+Enter CS1C Student's Age: 33
+Enter CS1C Student's Gender(m/f): F
+Enter CS1C Student's Class Standing: Sophomore
+Enter CS1C Student's GPA: 3.2
+
+Name           Student's ID Phone         Age    Gender Class standing  GPA
+Adele          667788       949-665-1234  31     F      Freshman        3.3
+Taylor Swift   156789       248-555-6543  29     M      Sophomore       3.9
+Bruno Mars     876543       703-703-7654  33     F      Sophomore       3.2
+
+
+Enter academic information for CS1C Students: 
+Enter CS1C student's assignment score:500
+Enter CS1C student's python knowledge:no
+Enter CS1C student's graduation date:5/12/2020
+
+Enter CS1C student's assignment score:700
+Enter CS1C student's python knowledge:no
+Enter CS1C student's graduation date:5/11/2021
+
+Enter CS1C student's assignment score:800
+Enter CS1C student's python knowledge:yes
+Enter CS1C student's graduation date:5/11/2020
+
+Name           Assignment Score    Python Knowledge Graduation Date
+Adele          500                 no               5/12/2020
+Taylor Swift   700                 no               5/11/2021
+Bruno Mars     800                 yes              5/11/2020
