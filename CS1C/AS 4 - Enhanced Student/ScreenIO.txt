@@ -1,0 +1,79 @@
+*************************************************************
+* PROGRAMMED BY : Wesley Chok
+* CLASS         : CS1C
+* SECTION       : MW 2:30 - 4:50p
+* ASN #4        : Enhanced Student
+*************************************************************
+
+/******************************************************************************
+* OUTPUT (This is a comment, not part of the output)
+* ------------------------------------------------------------------------------
+* This outputs the software student information and the software student's 
+* residential information. An array of objects is primarily used to
+* output all of the contents of information for the student array.The 
+* information portion concludes once it reaches the loop continuation condition. 
+* The software residential information is outtputed through a deep copy 
+* function found in the main.cpp file. The data first goes through the 
+* normal constructor where it will allocate each pointer variable into an 
+* actual value. The statement "Normal constructor allocating ptr" is the
+* testing. After this, the variables go through the copy constructor where
+* each variable is instantiated with a constant object. This instantiated object
+* will be used in the main.cpp file to plug in information and output it by
+* calling the display function. In the main.cpp file, the change function is also
+* called. The purpose of this function is to change the values contained in the
+* prior deep copy constructors. The "Copy constructor allocating ptr" is the 
+* statement that tests the copy constructor. After this is done, the pointers 
+* are deleted to free memory and the statement "Freeing memory" is used to 
+* test the destructor. 
+* ------------------------------------------------------------------------------
+/******************************************************************************
+Enter the information for Students: 
+Enter Student's Name: Joe Calculus
+Enter Student's ID: 64879
+Enter Student's Phone Number: 949-555-1234
+Enter Student's Age: 42
+Enter Student's Gender(m/f): M
+Enter Student's Class Standing: Freshman
+Enter Student's GPA: 3.3
+
+Enter Student's Name: Mary Algebra
+Enter Student's ID: 76309
+Enter Student's Phone Number: 213-555-5555
+Enter Student's Age: 22
+Enter Student's Gender(m/f): F
+Enter Student's Class Standing: Junior
+Enter Student's GPA: 4.0
+
+Enter Student's Name: Jo Trig
+Enter Student's ID: 10192
+Enter Student's Phone Number: 714-703-1234
+Enter Student's Age: 29
+Enter Student's Gender(m/f): F
+Enter Student's Class Standing: Senior
+Enter Student's GPA: 2.9
+
+Name           Student's Id Phone         Age    Gender Class Standing  GPA
+Joe Calculus   64879        949-555-1234  42     M      Freshman        3.3
+Mary Algebra   76309        213-555-5555  22     F      Junior          4.0
+Jo Trig        10192		714-703-1234  29     F      Senior          2.9
+
+(not part of code but showing the output without the testing)
+Enter the software student information 
+Name         Address              City          State Zip Code
+Joe Calculus 1234 Main Avenue     Laguna Niguel CA    92677
+Mary Algebra 3333 Marguerite Pkwy Mission Viejo CA    92646
+Jo Trig      9876 Elm Street      San Clemente  CA    92672
+
+
+(not part of the code but showing the output with testing)
+Enter the software student information 
+Name         Address              City          State Zip Code
+Normal constructor allocating ptr
+Copy constructor allocating ptr.
+Copy constructor allocating ptr.
+Joe Calculus 1234 Main Avenue     Laguna Niguel CA    92677
+Mary Algebra 3333 Marguerite Pkwy Mission Viejo CA    92646
+Jo Trig      9876 Elm Street      San Clemente  CA    92672
+Freeing memory
+Freeing memory
+Freeing memory
