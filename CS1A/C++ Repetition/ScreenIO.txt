@@ -1,0 +1,36 @@
+*************************************************************
+* PROGRAMMED BY : Wesley Chok & Zaid Khan
+* CLASS         : CS1A
+* SECTION       : MW 5 - 7:20p
+* LAB #10       : C++ Repetition
+*************************************************************
+
+Let's play the number guessing game! 
+Enter an integer greater than or equal to 0 and less than 100: 45
+Your guess is lower than the number. 
+
+Enter an integer greater than or equal to 0 and less than 100: 20
+Your guess is lower than the number. 
+
+Enter an integer greater than or equal to 0 and less than 100: -10
+Please enter again, an integer greater than or equal to 0 and less than 100!
+
+Enter an integer greater than or equal to 0 and less than 100: 35
+Your guess is lower than the number. 
+
+Enter an integer greater than or equal to 0 and less than 100: 250
+Please enter again, an integer greater than or equal to 0 and less than 100!
+
+Enter an integer greater than or equal to 0 and less than 100: 28
+Your guess is lower than the number. 
+
+Enter an integer greater than or equal to 0 and less than 100: 32
+Your guess is lower than the number. 
+
+Enter an integer greater than or equal to 0 and less than 100: 50
+Your guess is lower than the number. 
+
+Enter an integer greater than or equal to 0 and less than 100: 52
+Your guess the correct number, Congratulations!
+
+Thank you for playing the number guessing game!
