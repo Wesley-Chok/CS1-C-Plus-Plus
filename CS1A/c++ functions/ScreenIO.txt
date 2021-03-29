@@ -1,0 +1,41 @@
+*************************************************************
+* PROGRAMMED BY : Wesley Chok & Zaid Khan
+* CLASS         : CS1A
+* SECTION       : MW 5 - 7:20p
+* LAB #12       : C++ Functions
+*************************************************************
+
+Let's play the rolling dice game!
+
+
+Enter an integer greater than or equal to 1 and less than or equal to 12: 15
+Enter an integer greater than or equal to 1 and less than or equal to 12: 7
+Dice roll sum equal to 8
+Dice roll sum equal to 5
+Dice roll sum equal to 13
+Dice roll sum equal to 7
+The number of times the dice were rolled to get the sum 7 is 4!
+
+Thank you for playing the rolling dice game!
+
+Let's play the rolling dice game!
+
+
+Enter an integer greater than or equal to 1 and less than or equal to 12: 80
+Enter an integer greater than or equal to 1 and less than or equal to 12: 20
+Enter an integer greater than or equal to 1 and less than or equal to 12: 6
+Dice roll sum equal to 9
+Dice roll sum equal to 3
+Dice roll sum equal to 12
+Dice roll sum equal to 5
+Dice roll sum equal to 9
+Dice roll sum equal to 11
+Dice roll sum equal to 8
+Dice roll sum equal to 10
+Dice roll sum equal to 9
+Dice roll sum equal to 7
+Dice roll sum equal to 11
+Dice roll sum equal to 6
+The number of times the dice were rolled to get the sum 6 is 12!
+
+Thank you for playing the rolling dice game!
