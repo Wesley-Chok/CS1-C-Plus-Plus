@@ -1,0 +1,24 @@
+*************************************************************
+* PROGRAMMED BY : Wesley Chok & Zaid Khan
+* CLASS         : CS1A
+* SECTION       : MW 5 - 7:20p
+* LAB #13       : Arrays in C++
+*************************************************************
+
+Who do you want to search for (enter done to exit)?Joe
+There are 4 instances of the name Joe
+
+Who do you want to search for (enter done to exit)?Sally
+There are 2 instances of the name Sally
+
+Who do you want to search for (enter done to exit)?Adam
+There are 3 instances of the name Adam
+
+Who do you want to search for (enter done to exit)?Sue
+There is 1 instances of the name Sue
+
+Who do you want to search for (enter done to exit)?John
+John's name does not exist in this list.
+
+Who do you want to search for (enter done to exit)?done
+Thank you for using my program. 
