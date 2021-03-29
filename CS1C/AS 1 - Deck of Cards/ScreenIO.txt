@@ -1,0 +1,112 @@
+*************************************************************
+* PROGRAMMED BY : Wesley Chok
+* CLASS         : CS1C
+* SECTION       : MW 2:30 - 4:50p
+* ASN #1        : Deck of Cards
+*************************************************************
+
+/******************************************************************************
+* OUTPUT (This is a comment, not part of the output)
+*------------------------------------------------------------------------------
+* This outputs the initial deck, first perfect shuffle and the final deck in
+* the following order. The vector cards is used to print the contents of the 
+* initial deck, the vector firstShuffle is to print out the contents of the 
+* first perfect shuffle and lastly the vector temp is to print out the contents
+* of the final deck. The statement for the number of times it needs to go 
+* through a perfect shuffle is then outputted at the end.
+*------------------------------------------------------------------------------
+/******************************************************************************
+
+
+Initial deck: 
+-------------------------------------------------
+A CLUB       A DIAMONDS   A HEARTS     A SPADES     
+
+K CLUB       K DIAMONDS   K HEARTS     K SPADES     
+
+J CLUB       J DIAMONDS   J HEARTS     J SPADES     
+
+Q CLUB       Q DIAMONDS   Q HEARTS     Q SPADES     
+
+10 CLUB      10 DIAMONDS  10 HEARTS    10 SPADES    
+
+9 CLUB       9 DIAMONDS   9 HEARTS     9 SPADES     
+
+8 CLUB       8 DIAMONDS   8 HEARTS     8 SPADES     
+
+7 CLUB       7 DIAMONDS   7 HEARTS     7 SPADES     
+
+6 CLUB       6 DIAMONDS   6 HEARTS     6 SPADES     
+
+5 CLUB       5 DIAMONDS   5 HEARTS     5 SPADES     
+
+4 CLUB       4 DIAMONDS   4 HEARTS     4 SPADES     
+
+3 CLUB       3 DIAMONDS   3 HEARTS     3 SPADES     
+
+2 CLUB       2 DIAMONDS   2 HEARTS     2 SPADES     
+
+-------------------------------------------------
+
+First perfect shuffle: 
+-------------------------------------------------
+A CLUB       8 HEARTS     A DIAMONDS   8 SPADES     
+
+A HEARTS     7 CLUB       A SPADES     7 DIAMONDS   
+
+K CLUB       7 HEARTS     K DIAMONDS   7 SPADES     
+
+K HEARTS     6 CLUB       K SPADES     6 DIAMONDS   
+
+J CLUB       6 HEARTS     J DIAMONDS   6 SPADES     
+
+J HEARTS     5 CLUB       J SPADES     5 DIAMONDS   
+
+Q CLUB       5 HEARTS     Q DIAMONDS   5 SPADES     
+
+Q HEARTS     4 CLUB       Q SPADES     4 DIAMONDS   
+
+10 CLUB      4 HEARTS     10 DIAMONDS  4 SPADES     
+
+10 HEARTS    3 CLUB       10 SPADES    3 DIAMONDS   
+
+9 CLUB       3 HEARTS     9 DIAMONDS   3 SPADES     
+
+9 HEARTS     2 CLUB       9 SPADES     2 DIAMONDS   
+
+8 CLUB       2 HEARTS     8 DIAMONDS   2 SPADES     
+
+-------------------------------------------------
+
+Final deck: 
+-------------------------------------------------
+A CLUB       A DIAMONDS   A HEARTS     A SPADES     
+
+K CLUB       K DIAMONDS   K HEARTS     K SPADES     
+
+J CLUB       J DIAMONDS   J HEARTS     J SPADES     
+
+Q CLUB       Q DIAMONDS   Q HEARTS     Q SPADES     
+
+10 CLUB      10 DIAMONDS  10 HEARTS    10 SPADES    
+
+9 CLUB       9 DIAMONDS   9 HEARTS     9 SPADES     
+
+8 CLUB       8 DIAMONDS   8 HEARTS     8 SPADES     
+
+7 CLUB       7 DIAMONDS   7 HEARTS     7 SPADES     
+
+6 CLUB       6 DIAMONDS   6 HEARTS     6 SPADES     
+
+5 CLUB       5 DIAMONDS   5 HEARTS     5 SPADES     
+
+4 CLUB       4 DIAMONDS   4 HEARTS     4 SPADES     
+
+3 CLUB       3 DIAMONDS   3 HEARTS     3 SPADES     
+
+2 CLUB       2 DIAMONDS   2 HEARTS     2 SPADES     
+
+-------------------------------------------------
+
+8 perfect shuffles are necessary to return the deck 
+to it's original configuration 
