@@ -1,0 +1,51 @@
+List of Entries: 
+ID #     NAME                    BALANCE DUE
+----     --------------------    -----------
+1001     Jean Rousseau           $     15.50
+
+
+1002     Steve Woolston          $   1423.20
+
+
+1005     Michele Rousseau        $     52.75
+
+
+1007     Pete McBride            $    500.32
+
+
+1010     Florence Rousseau       $   1323.33
+
+
+1009     Lisa Covi               $    332.35
+
+
+1003     Don McBride             $     12.32
+
+
+1008     Chris Carroll           $     32.35
+
+
+1004     Yolanda Agredano        $    356.00
+
+
+1006     Sally Sleeper           $     32.36
+
+
+Larger Balance: 
+ID #     NAME                    BALANCE DUE
+----     --------------------    -----------
+1002     Steve Woolston          $   1423.20
+
+
+Smaller Balance: 
+ID #     NAME                    BALANCE DUE
+----     --------------------    -----------
+1003     Don McBride             $     12.32
+
+
+Sum of Balance for all persons: 
+$   4080.48
+
+
+Average Balance for all persons: 
+$   408.05

@@ -1,0 +1,22 @@
+*************************************************************
+* PROGRAMMED BY : Wesley Chok
+* CLASS         : CS1A
+* SECTION       : MW 5 - 7:20p
+* ASN #8        : Functions and Files
+*************************************************************
+
+What input file would you like to use?  InFile.txt
+What output file would you like to use? OFile.txt
+
+Reading records from input file InFile.txt
+Output records to output file OFile.txt
+
+Output records with larger balance! 
+
+Output records with smaller balance! 
+
+Output sum of all balances! 
+
+Output average of all balances! 
+
+Thank you for using my program.
