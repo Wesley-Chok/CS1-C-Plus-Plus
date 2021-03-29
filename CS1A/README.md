@@ -9,4 +9,5 @@ CS1A is designed to be a hands-on introduction to the field of computer science.
 * Algorithms
 * Functions
 * Arrays
+
 Finally, the coding assignments in this course are implemented in a contemporary high-level language which is C++.
