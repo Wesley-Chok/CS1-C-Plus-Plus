@@ -1,0 +1,49 @@
+*************************************************************
+* PROGRAMMED BY : Wesley Chok
+* CLASS         : CS1C
+* SECTION       : MW 2:30 - 4:50p
+* ASN #3        : Pointers
+*************************************************************
+
+/******************************************************************************
+* OUTPUT (This is a comment, not part of the output)
+* ------------------------------------------------------------------------------
+* This outputs the list of items (includes the name, cost and quantity of the 
+* item. After this it asks the user the name of the item they would like to
+* purchase and how much they would like to purchase that item. The loop ends
+* once the customer types in "No". Once they type in "No", it goes to the
+* total cost before tax and then the total cost after the tax. 
+* ------------------------------------------------------------------------------
+/******************************************************************************
+
+Here is the list of items we have currently: 
+
+Name of equipment        Cost           Quantity       
+Nike Basketball shoes    $179.99         42
+Under Armour T-shirt     $29.99          44
+Brooks running shoes     $123.44         13
+Asics running shoes      $123.44         12
+Under Armour Shorts      $45.77          35
+
+
+What equipment would you like to purchase? Nike Basketball Shoes
+How much Nike Basketball Shoes would you like to buy? 4
+
+
+What equipment would you like to purchase? Under Armour T-Shirt
+How much Under Armour T-Shirt would you like to buy? 3
+
+
+What equipment would you like to purchase? Under Armour Shorts
+How much Under Armour Shorts would you like to buy? 4
+
+
+What equipment would you like to purchase? Asics Running Shoes
+How much Asics Running Shoes would you like to buy? 1
+
+
+What equipment would you like to purchase? No
+
+
+This is the total cost before the tax: 1116.45
+This is the total cost after the tax: 86.5249
